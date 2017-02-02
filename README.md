@@ -1,3 +1,3 @@
 # hello-world
-Aprendiendo a usar Github
+Aprendiendo Github
 Landsat y banda pancromatica numero 8
